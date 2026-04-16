@@ -10,21 +10,21 @@ This repository contains projects completed during a one-month internship at Cog
 
 Analysis of customer demographics, spending behavior, and marketing campaign responses.
 
-Repository Link: https://github.com/SubhasriiT/customer-personality-analysis
+Repository Link: [https://github.com/SubhasriiT/customer-personality-analysis](https://github.com/SubhasriiT/Customer-personality-analysis)
 
 
 ### 2. Employee Salaries Analysis
 
 Exploration of salary trends in data science based on experience, job roles, company size, and remote work.
 
-Repository Link: https://github.com/SubhasriiT/employee-salary-analysis
+Repository Link: [https://github.com/SubhasriiT/employee-salary-analysis](https://github.com/SubhasriiT/Employee-salaries-analysis)
 
 
 ### 3. Unemployment in India Analysis
 
 Study of unemployment trends across Indian states with focus on COVID-19 impact.
 
-Repository Link: https://github.com/SubhasriiT/unemployment-india-analysis
+Repository Link: [https://github.com/SubhasriiT/unemployment-india-analysis](https://github.com/SubhasriiT/Unemployment-in-India-Analysis)
 
 ## Skills Gained
 
